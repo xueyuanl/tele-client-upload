@@ -1,0 +1,4 @@
+api_id: # int, your client account api id
+api_hash: # string, your client account hash code
+entity: # string, person, group or channel
+photo_path: # string, where is your photos
